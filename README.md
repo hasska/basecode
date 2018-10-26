@@ -1,4 +1,4 @@
-# Haska Project
+# Haska Project Base Code
 This repository contains base code of the Haska project's and you can can use this as your micro service or contribute this repository to having better base code for Haska projects. Let's go to the running instruction.
 
 # Installation & Running
